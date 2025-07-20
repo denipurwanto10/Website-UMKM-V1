@@ -39,11 +39,25 @@ Sistem ini menyederhanakan proses pendataan, persetujuan, dan pelaporan UMKM yan
 
 ---
 
+---
+
+## 📦 Instalasi
+
+### 1. **Frontend (CodeIgniter 3)**
+
+- Ekstrak folder frontend di `htdocs/Website-UMKM-V2/`
+- Import file `.sql` ke MySQL
+- Konfigurasi:
+  - `application/config/config.php`
+  - `application/config/database.php`
+  - URL API web service
 
 ## 📥 Download Source Code
 
 🔗 **[Klik di sini untuk mengunduh source code dari Google Drive](https://drive.google.com/drive/folders/1hjmUqniGuAN1FXP_syYYCj0l9ARQHH5X?usp=sharing)**  
 
+
+ 
 ---
 
 
