@@ -82,4 +82,4 @@ class Category extends CI_Controller {
         // Mengembalikan respons dalam format JSON
         echo json_encode($response);
     }
-}
+} 
